@@ -12,6 +12,7 @@
 	"institutions" : "[ 'Beth Isreal Deaconess Medical Center', 'Partners HealthCare' ]",
 	"keywords" : "[ 'timeline', 'webclient' ]",
 	"package" : "https://github.com/i2b2plugins/wc-timeline/archive/v1.4.zip",
+	"icon" : "https://raw.githubusercontent.com/i2b2plugins/wc-timeline/master/timeline.png",
 	"userManual" : "",
 	"installGuide" : "",
 	"configuration" : "None",
